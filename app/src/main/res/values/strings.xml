@@ -1,0 +1,116 @@
+<resources>
+    <string name="app_name">Bengaluru Guide</string>
+    <string name="Food">Food</string>
+    <string name="meghnabiryani">CHICKEN BIRYANI</string>
+    <string name="meghnaaddress">Jyoti Nivas College Road, NearJyoti, No. 124, 1st Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560095</string>
+    <string name="meghnaprice">INR 299</string>
+    <string name="meghnarating">4.8</string>
+
+    <string name="chola">CHOLA BATHURA</string>
+    <string name="punjabirasoi">PUNJABI RASOI</string>
+    <string name="punjabirasoiaddress">No. 152, Near BDA Complex, 2nd Main, 1st Stage, Canara Bank Road, Indiranagar, Bengaluru, Karnataka 560038</string>
+    <string name="punjabirasoiprice">INR 149</string>
+    <string name="punjabirasoirating">4.3</string>
+
+
+    <string name="exoticvegetables">EXOTIC VEGETABLES</string>
+    <string name="mainlandchinnese">MAINLAND CHINNESE</string>
+    <string name="mainlandprice">INR 399</string>
+    <string name="mainlandrating">4.0</string>
+    <string name="mainlandaddress"> 5th A Cross Road, HRBR Layout 2nd Block, Kalyan Nagar, Bengaluru, Karnataka 560043</string>
+
+    <string name="southindianfood">SOUTH INDIAN FOOD</string>
+    <string name="udipigrand">UDIPI GRAND</string>
+    <string name="udipigrandaddress">Old Outer Ring Rd, Marilingappa Extension, Nagarbhavi, Bengaluru, Karnataka 560072</string>
+    <string name="southindianprice">INR 109</string>
+    <string name="southindianrating">3.9</string>
+
+    <string name="sandwichtittle">SANDWICH</string>
+    <string name="harisupersandwich">HARI SUPER SANDWICH</string>
+    <string name="harisandwichaddresss">8th main (3rd block jayanagar), Bangalore, Karnātaka</string>
+     <string name="harisandwichprice">INR 49</string>
+    <string name="harisandwichrating">4.1</string>
+
+    <string name="leelapalace">The Leela Palace Bengaluru</string>
+    <string name="leelastar">5-star hotel</string>
+    <string name="leelaaddress">23 Old Airport Road, Kodihalli, Bengaluru, Karnataka 560008</string>
+    <string name="leelaprice">INR 16,000</string>
+
+    <string name="taj">Taj</string>
+    <string name="tajstar">5-star hotel</string>
+    <string name="tajaddress">2275, Tumkur Road, Yeshwanthpur, Bengaluru, Karnataka 560022</string>
+    <string name="tajprice">INR 7,375</string>
+
+    <string name="windsor">ITC Windsor, Bengaluru</string>
+    <string name="windsorstar">5-star hotel</string>
+    <string name="windsoraddress">25, Golf Course Rd, Windsor Square, Abshot Layout, Vasanth Nagar, Bengaluru, Karnataka 560052</string>
+    <string name="windsorprice">INR 10,752</string>
+    
+    <string name="le">Le Méridien Bangalore</string>
+    <string name="lestar">5-star hotel</string>
+    <string name="leaddress">174, No. 28, Sankey Rd, P.B, Vasanth Nagar, Bengaluru, Karnataka 560052</string>
+    <string name="leprice">INR 8,850</string>
+
+    <string name="palms">The Golden Palms Hotel and Spa</string>
+    <string name="palmaddress">Golden Palms Avenue, Off Tumkur Road, Bengaluru, Karnataka 562123</string>
+    <string name="palmstar">4-star hotel</string>
+    <string name="palmprice">INR 6,255</string>
+
+    <string name="bannerghatatitle">BANNERGHATTA NATIONAL PARK</string>
+    <string name="bannerghatadesp">Lion and Tiger Safari,Bear Safari</string>
+    <string name="bannerghataadd">Address:Bannerghatta Main Rd, Bannerughatta, Bengaluru, Karnataka 560083
+</string>
+    <string name="bannerghatahours">Hours: Mon, Wed-Sun 9AM–5PM
+Tue Closed</string>
+
+
+    <string name="wonderlatitle">WONDERLA</string>
+    <string name="wonderladesp">Amusement park with roller coasters, a ferris wheel and water rides, plus virtual reality experiences.</string>
+    <string name="wonderlaadd">28th Km, Mysore Road, Bengaluru, Karnataka 562109</string>
+
+    <string name="wonderlahours">Hours:Mon-Sun 11AM–7PM</string>
+
+    <string name="lalbaghtitle">LAL BAGH</string>
+    <string name="lalbaghdesp"> It has a famous glass house dating from 1889 which hosts two annual flower shows.</string>
+    <string name="lalbaghadd">Address: Mavalli, Bengaluru, Karnataka 560004</string>
+    <string name="lalbaghhours">Mon 6AM–7PM
+Tue-Sun 6AM–6PM</string>
+
+    <string name="stadiumtitle">M. Chinnaswamy Stadium</string>
+    <string name="stadiumdesp">The M. Chinnaswamy Stadium, located in Bengaluru, Karnataka, is a stadium owned by the Government of Karnataka</string>
+    <string name="stadiumadd">Address: Cubbon Rd, Shivaji Nagar, Bengaluru, Karnataka 560001</string>
+    <string name="stadiumhours">Tenants: Karnataka cricket team, Royal Challengers Bangalore, India national cricket team</string>
+
+
+    <string name="iskontitle">ISKCON Temple Bangalore</string>
+    <string name="iskondesp">Sri Radha Krishna Temple has deities of Radha and Krishna.Sri Radha Krishna Temple has deities of Radha and Krishna  </string>
+    <string name="iskonadd">Address: Hare Krishna Hill, Chord Rd, Rajaji Nagar, Bengaluru, Karnataka 560010</string>
+    <string name="iskonhours">Major festivals: Janamashtami</string>
+
+    <string name="ganeshtitle">GANESH CHATURTHI</string>
+    <string name="ganeshdesp">It is the day that we celebrate in devotion to Lord Ganesha, son of Lord Shiva and Parvati. All of us know the story of how Lord Ganesha was created. The festival is celebrated over a period of 10 days
+                   </string>
+
+    <string name="gowrititle">Gowri Festival</string>
+    <string name="gowridesp">This is a festival celebrated one day before Ganesh Chaturthi as a day to pay tribute to goddess Gowri, mother of Lord Ganesha.</string>
+
+    <string name="hampititle">Hampi Festival</string>
+    <string name="hampidesp">Hampi festival which is also known as Vijaya Utsav is a famous festival to celebrate the birthday of the ancient poet Purandaradasa </string>
+
+    <string name="dresstitle">Dress</string>
+    <string name="dressdesp">From its exuberant art and culture of multilingual ethnicity, astounding dance forms, mesmerising music, sophisticated heritage, zealous festivities, elegant clothing and delectable cuisine Karnataka has a plethora of historical secrets</string>
+
+    <string name="dancetitle">Dance</string>
+    <string name="dancedesp">The unique art form of Yakshagana has various elements like dance (Nrithya), makeup (Bannagarike or Mukhavarnike), background singing and direction (Bhagvathike)</string>
+
+    <string name="langatitle">Language</string>
+    <string name="langadesp">Kannada is spoken as a native language by about 74% of the people of Karnataka. Kannadigas are the native speakers of Karnataka who form a dominant ethnic group</string>
+
+    <string name="arttitle">Art and Culture</string>
+    <string name="artdesp">Earlier, painting involved not only the act itself but the entire process, from making ones colours to watching as they come to life. Paper, wood, cloth, etc. </string>
+
+    <string name="Places">Places</string>
+    <string name="Hotels">Hotels</string>
+    <string name="Culture">Culture</string>
+    <string name="section_format">blah</string>
+</resources>
